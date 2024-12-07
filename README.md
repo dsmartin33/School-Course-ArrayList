@@ -11,5 +11,7 @@ Contributors: Currently only me.
 Clasess in Project:
 
 UseCourse - coded by Dustin Martin
+
 Course - coded my Dustin Martin
+
 ProgrammingCourse - coded my Dustin Martin
